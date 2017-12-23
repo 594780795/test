@@ -24,7 +24,7 @@ import com.zqgame.loan.api.utils.StringUtil;
 
 @Controller
 public class JpushController extends BaseController {
-	
+	fffffffffffffffffffffff
 	sysoutsfjasljdskl
 	@ResponseBody
 	public String jpushMessage(@RequestAttribute(BaseConsts.PARAM) Map param){
