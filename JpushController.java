@@ -25,10 +25,7 @@ import com.zqgame.loan.api.utils.StringUtil;
 @Controller
 public class JpushController extends BaseController {
 	
-	@Autowired
-	private JpushService jpushService;
-
-	@PostMapping("/jpush")
+	sysoutsfjasljdskl
 	@ResponseBody
 	public String jpushMessage(@RequestAttribute(BaseConsts.PARAM) Map param){
 		String adId = param.get("adId") == null ? null : param.get("adId").toString();
